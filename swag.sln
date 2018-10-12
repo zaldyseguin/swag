@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "scr", "scr", "{5398FD49-CE78-459B-A56E-676125755E6F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{7BDF1CA4-875E-48D7-A054-B5895592300A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "swag.Core", "src\swag.Core\swag.Core.csproj", "{DEFC075B-E531-4497-915B-7A427B3574C4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "swag.Api", "src\swag.Api\swag.Api.csproj", "{37E47DB1-4A32-4196-8F96-E1EE58FB3BB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEFC075B-E531-4497-915B-7A427B3574C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEFC075B-E531-4497-915B-7A427B3574C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEFC075B-E531-4497-915B-7A427B3574C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEFC075B-E531-4497-915B-7A427B3574C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37E47DB1-4A32-4196-8F96-E1EE58FB3BB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37E47DB1-4A32-4196-8F96-E1EE58FB3BB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37E47DB1-4A32-4196-8F96-E1EE58FB3BB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37E47DB1-4A32-4196-8F96-E1EE58FB3BB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DEFC075B-E531-4497-915B-7A427B3574C4} = {5398FD49-CE78-459B-A56E-676125755E6F}
+		{37E47DB1-4A32-4196-8F96-E1EE58FB3BB9} = {5398FD49-CE78-459B-A56E-676125755E6F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B966A84-78B6-4BC4-BD17-892E9E3EBFF8}
+	EndGlobalSection
+EndGlobal
