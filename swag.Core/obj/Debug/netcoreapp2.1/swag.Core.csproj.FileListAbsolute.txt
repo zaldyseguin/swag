@@ -1,0 +1,12 @@
+C:\Zaldy\IBM\Training\RestFul\swag\src\swag.Core\obj\Debug\netcoreapp2.1\swag.Core.csprojAssemblyReference.cache
+C:\Zaldy\IBM\Training\RestFul\swag\src\swag.Core\obj\Debug\netcoreapp2.1\swag.Core.csproj.CoreCompileInputs.cache
+C:\Zaldy\IBM\Training\RestFul\swag\src\swag.Core\obj\Debug\netcoreapp2.1\swag.Core.AssemblyInfoInputs.cache
+C:\Zaldy\IBM\Training\RestFul\swag\src\swag.Core\obj\Debug\netcoreapp2.1\swag.Core.AssemblyInfo.cs
+C:\Zaldy\IBM\Training\RestFul\swag\src\swag.Core\bin\Debug\netcoreapp2.1\swag.Core.deps.json
+C:\Zaldy\IBM\Training\RestFul\swag\src\swag.Core\bin\Debug\netcoreapp2.1\swag.Core.dll
+C:\Zaldy\IBM\Training\RestFul\swag\src\swag.Core\bin\Debug\netcoreapp2.1\swag.Core.pdb
+C:\Zaldy\IBM\Training\RestFul\swag\src\swag.Core\obj\Debug\netcoreapp2.1\swag.Core.dll
+C:\Zaldy\IBM\Training\RestFul\swag\src\swag.Core\obj\Debug\netcoreapp2.1\swag.Core.pdb
+C:\Zaldy\IBM\Training\RestFul\swag\src\swag.Core\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Zaldy\IBM\Training\RestFul\swag\src\swag.Core\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Server.IISIntegration.xml
+C:\Zaldy\IBM\Training\RestFul\swag\src\swag.Core\obj\Debug\netcoreapp2.1\swag.Core.csproj.CopyComplete
